@@ -43,7 +43,7 @@ I`m a Software Engineer, and I have a deep passion for Mobile Programming.I brin
 
 <a href='mailto:usama.khan2018@gmail.com'><img align='left' alt="gmail" src="https://raw.githubusercontent.com/codeswot/codeswot/main/assets/socials/gmail.svg" height='30px' width='30px'/></a>
 
-<a href='https://wa.me/+923349158650?text=Hello, Codeswot'><img align='left' alt="whatsapp" src="https://raw.githubusercontent.com/codeswot/codeswot/main/assets/socials/whatsapp.gif" height='35px' width='35px'/></a>
+<a href='https://wa.me/+923349158650?text=Hello Usama Sultant'><img align='left' alt="whatsapp" src="https://raw.githubusercontent.com/codeswot/codeswot/main/assets/socials/whatsapp.gif" height='35px' width='35px'/></a>
 
 <a href='https://twitter.com/codeswot/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/codeswot/codeswot/main/assets/socials/twitter.gif" height='35px' width='35px'/></a>
 
