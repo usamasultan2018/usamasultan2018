@@ -24,9 +24,8 @@ I`m a Software Engineer, and I have a deep passion for Mobile Programming.I brin
 
 👨🏻‍💻   Most of my projects are available on Github.
 
-💬   Ask me anything tech related, I am happy to help.
-<br>
- <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/codeswot/codeswot/main/assets/other/techstack.gif" alt="my banner"></a>
+💬   Ask me anything tech related, I am happy to help.       <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/codeswot/codeswot/main/assets/other/techstack.gif" alt="my banner"></a>
+
 ### 🛠 Language and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,java,git,html,css,firebase,github,nodejs,postman,mysql,&perline=3)](#)
 
