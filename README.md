@@ -41,9 +41,15 @@ I`m a Software Engineer, and I have a deep passion for Mobile Programming.I brin
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/usama-sultan-b67972105/"><img align="left" src="https://raw.githubusercontent.com/usamasultan2018/usamasultan2018/main/images/linkedin.svg" alt="Usama Sultan | LinkedIn" width="50px"/></a>
-<a href="https://www.instagram.com/usamak2/"><img align="left" src="https://raw.githubusercontent.com/usamasultan2018/usamasultan2018/main/images/instagram.svg" alt="Usama Sultan | LinkedIn" width="50px"/></a>
+<a href='mailto:usama.khan2018@gmail.com'><img align='left' alt="gmail" src="https://raw.githubusercontent.com/codeswot/codeswot/main/assets/socials/gmail.svg" height='30px' width='30px'/></a>
 
+<a href='https://wa.me/+923349158650?text=Hello, Codeswot'><img align='left' alt="whatsapp" src="https://raw.githubusercontent.com/codeswot/codeswot/main/assets/socials/whatsapp.gif" height='35px' width='35px'/></a>
+
+<a href='https://twitter.com/codeswot/'><img align='left' alt="twitter" src="https://raw.githubusercontent.com/codeswot/codeswot/main/assets/socials/twitter.gif" height='35px' width='35px'/></a>
+
+<a href='https://www.linkedin.com/in/usama-sultan-b67972105/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/codeswot/codeswot/main/assets/socials/linkedin.gif" height='35px' width='35px'/></a>
+
+<a href='https://www.youtube.com/'><img align='left' alt="youtube" src="https://raw.githubusercontent.com/codeswot/codeswot/main/assets/socials/youtube.gif" height='35px' width='35px'/></a>
 
 <!--
 **usamasultan2018/usamasultan2018** is a ✨ _special_ ✨ repository because its `REA,DME.md` (this file) appears on your GitHub profile.
