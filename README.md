@@ -13,18 +13,13 @@ I`m a Software Engineer, and I have a deep passion for Mobile Programming.I brin
 
 
 
-    ###🤔 More about Me:
-🔭   I’m currently working in TritechSolution.
-
-🤝   I’m looking to collaborate on open source Projects.
-
-🌱   I’m currently learning Bloc and Backend Languages.
-
-❤️   I Love Bitcoin ⛓.
-
-👨🏻‍💻   Most of my projects are available on Github.
-
-💬   Ask me anything tech related, I am happy to help.   
+##🤔 More about Me:
+🔭   I’m currently working in TritechSolution. <br>
+🤝   I’m looking to collaborate on open source Projects. <br>
+🌱   I’m currently learning Bloc and Backend Languages. <br>
+❤️   I Love Bitcoin ⛓. <br>
+👨🏻‍💻   Most of my projects are available on Github. <br>
+💬   Ask me anything tech related, I am happy to help. 
 
 
 <div align="right">
