@@ -31,6 +31,9 @@ I`m a Software Engineer, and I have a deep passion for Mobile Programming.I brin
 
 
 [![Usama Sultan github stats](https://github-readme-stats.vercel.app/api?username=usamasultan2018)](https://github.com/usamasultan2018)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usamasultan2018&layout=compact)](https://github.com/usamasultan2018)
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=usamasultan2018.usamasultan2018)](https://www.yushi.dev/)
+
 
 ### 🤝 Connect with me:
 
