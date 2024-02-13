@@ -1,7 +1,14 @@
 <p align="center">
-  <a href="#" target="_blank" rel="noreferrer"><img width=”200" height=”100" src="https://github.com/usamasultan2018/usamasultan2018/blob/main/images/profile.png" alt="my banner"></a>
+  <a href="https://usamasultan.netlify.app/" target="_blank" rel="noreferrer"><img width=”200" height=”100" src="https://github.com/usamasultan2018/usamasultan2018/blob/main/images/profile.png" alt="my banner"></a>
 </p>
-### Hi I am Usama Sultan👋
+<h3 align="center">
+Hi there, I'm <a href="https://usamasultan.netlify.app/" target="_blank" rel="noreferrer">Usama Sultan</a> 👋
+</h3>
+
+<h2 align="center">
+I'm a Mobile Application Developer 💻!
+</h2> 
+<br>
 I`m a Software Engineer, and I have a deep passion for Mobile Programming.I bring over 2 years of experience in application development, specializing in Flutter.
 
 
