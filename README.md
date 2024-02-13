@@ -1,6 +1,6 @@
 <p align=”center”>
 
-<img width=”200" height=”200" src=”images/profile.png" alt=”my banner”>
+<img width=”200" height=”200" src="https://github.com/github/usamasultan2018/usamasultan2018/images/profile.png" alt=”my banner”>
 
 </p>
 ### Hi I am Usama Sultan👋
