@@ -13,7 +13,6 @@ I`m a Software Engineer, and I have a deep passion for Mobile Programming.I brin
 
 
 
-<div>
     ###🤔 More about Me:
 🔭   I’m currently working in TritechSolution.
 
@@ -32,7 +31,6 @@ I`m a Software Engineer, and I have a deep passion for Mobile Programming.I brin
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/codeswot/codeswot/main/assets/other/techstack.gif" alt="my banner">
   </a>
-</div>
 </div>
 
 ### 🛠 Language and Tools:
