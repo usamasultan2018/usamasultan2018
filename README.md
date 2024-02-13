@@ -13,7 +13,8 @@ I`m a Software Engineer, and I have a deep passion for Mobile Programming.I brin
 
 
 
-###🤔 More about Me:
+<div style="display: flex; flex-direction: row; align-items: center; justify-content: space-between; >
+  ###🤔 More about Me:
 🔭   I’m currently working in TritechSolution.
 
 🤝   I’m looking to collaborate on open source Projects.
@@ -31,6 +32,7 @@ I`m a Software Engineer, and I have a deep passion for Mobile Programming.I brin
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/codeswot/codeswot/main/assets/other/techstack.gif" alt="my banner">
   </a>
+</div>
 </div>
 
 ### 🛠 Language and Tools:
