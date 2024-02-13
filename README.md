@@ -18,7 +18,7 @@ I`m a Software Engineer, and I have a deep passion for Mobile Programming.I brin
 
 ### 🛠 Language and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,java,git,html,css,firebase,github,nodejs,&perline=3)](https://skillicons.dev)
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Usama Sultan github stats](https://github-readme-stats.vercel.app/api?username=usamasultan2018)](https://github.com/usamasultan2018)
 
 <!--
 **usamasultan2018/usamasultan2018** is a ✨ _special_ ✨ repository because its `REA,DME.md` (this file) appears on your GitHub profile.
