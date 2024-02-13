@@ -9,9 +9,8 @@ Hi there, I'm <a href="https://usamasultan.netlify.app/" target="_blank" rel="no
 I'm a Mobile Application Developer 💻!
 </h2> 
 <br>
+
 I`m a Software Engineer, and I have a deep passion for Mobile Programming.I bring over 2 years of experience in application development, specializing in Flutter.
-
-
 
 ###🤔 More about Me:
 🔭   I’m currently working in TritechSolution.
