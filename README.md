@@ -24,7 +24,8 @@ I`m a Software Engineer, and I have a deep passion for Mobile Programming.I brin
 
 ### 🤝 Connect with me:
 
-<a href="https://www.linkedin.com/in/usama-sultan-b67972105/"><img align="left" src="https://raw.githubusercontent.com/usamasultan2018/usamasultan2018/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/usama-sultan-b67972105/"><img align="left" src="https://raw.githubusercontent.com/usamasultan2018/usamasultan2018/main/images/linkedin.svg" alt="Usama Sultan | LinkedIn" width="21px"/></a>
+<a href="https://www.instagram.com/usamak2/"><img align="left" src="https://raw.githubusercontent.com/usamasultan2018/usamasultan2018/main/images/instagram.svg" alt="Usama Sultan | LinkedIn" width="21px"/></a>
 
 
 <!--
