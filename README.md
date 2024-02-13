@@ -5,7 +5,7 @@
 Hi there, I'm <a href="https://usamasultan.netlify.app/" target="_blank" rel="noreferrer">Usama Sultan</a> 👋
 </h3>
 
-<h2 align="right"
+<h2 align="center"
 I'm a Mobile Application Developer 💻!
 </h2> 
 <br>
@@ -26,7 +26,8 @@ I`m a Software Engineer, and I have a deep passion for Mobile Programming.I brin
 
 💬   Ask me anything tech related, I am happy to help.     
 
-<div align="center">
+
+<div align="right">
   <a href="#" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/codeswot/codeswot/main/assets/other/techstack.gif" alt="my banner">
   </a>
