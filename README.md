@@ -1,7 +1,5 @@
-<p align=”center”>
-
-<img width=”200" height=”200" src="https://github.com/usamasultan2018/usamasultan2018/blob/main/images/profile.png" alt=”my banner”>
-
+<p align="center">
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://github.com/usamasultan2018/usamasultan2018/blob/main/images/profile.png" alt="my banner"></a>
 </p>
 ### Hi I am Usama Sultan👋
 I`m a Software Engineer, and I have a deep passion for Mobile Programming.I bring over 2 years of experience in application development, specializing in Flutter.
