@@ -22,9 +22,10 @@ I`m a Software Engineer, and I have a deep passion for Mobile Programming.I brin
 
 [![Usama Sultan github stats](https://github-readme-stats.vercel.app/api?username=usamasultan2018)](https://github.com/usamasultan2018)
 
-🤝 Connect with me:
+### 🤝 Connect with me:
 
-<a href=”https://www.linkedin.com/in/usamasultan2018/"><img align=”left” src=”https://raw.githubusercontent.com/usamasultan2018/usamasultan2018/main/images/linkedin.svg" alt=”Usama Sultan | LinkedIn” width=”21px”/></a>
+<a href="https://www.linkedin.com/in/yushi95/"><img align="left" src="https://raw.githubusercontent.com/usamasultan2018/usamasultan2018/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+
 
 <!--
 **usamasultan2018/usamasultan2018** is a ✨ _special_ ✨ repository because its `REA,DME.md` (this file) appears on your GitHub profile.
