@@ -30,7 +30,7 @@ I`m a Software Engineer, and I have a deep passion for Mobile Programming.I brin
 
 
 ### 🛠 Language and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,java,git,html,css,firebase,github,nodejs,postman,mysql,&perline=10)](#)
+[![My Skills](https://skillicons.dev/icons?i=flutter,java,git,html,css,firebase,github,nodejs,postman,mysql,android&perline=10)](#)
 
 
 [![Usama Sultan github stats](https://github-readme-stats.vercel.app/api?username=usamasultan2018)](https://github.com/usamasultan2018)
