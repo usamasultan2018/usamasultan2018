@@ -4,12 +4,12 @@
 
 ## 🚀 About Me
 
-Software Engineer at **TritechSolution** with a passion for crafting exceptional mobile experiences. I focus on clean architecture, efficient state management, and delivering user-centric solutions.
+Software Engineer at **Metasense** with a passion for crafting exceptional mobile experiences. I focus on clean architecture, efficient state management, and delivering user-centric solutions.
 
-- 🔭 Building production-ready Flutter applications
-- 🌱 Expanding expertise in **Bloc** architecture and backend technologies
-- 🤝 Open to collaborating on innovative open-source projects
-- ⛓️ Enthusiast of blockchain technology and Bitcoin
+- 🔭 Architecting production-ready Flutter applications with **Bloc** pattern
+- 🌱 Mastering advanced backend technologies and microservices architecture
+- 🤝 Actively seeking collaborations on innovative open-source projects
+- ⛓️ Passionate about blockchain technology and decentralized applications
 
 ## 💻 Tech Stack
 
@@ -27,14 +27,15 @@ class UsamaSultan extends FlutterDeveloper {
   final List<String> expertise = [
     'Cross-platform Mobile Development',
     'State Management (Bloc, Provider, Riverpod)',
-    'RESTful API Integration',
+    'RESTful API Integration & Node.js Backend',
     'Firebase & Cloud Services',
     'Clean Architecture & SOLID Principles',
+    'CI/CD Pipelines & DevOps',
   ];
   
   final Map<String, String> currentFocus = {
-    'learning': 'Advanced Bloc patterns & Backend development',
-    'building': 'Scalable enterprise applications',
+    'learning': 'Microservices Architecture & Advanced Scalability',
+    'building': 'Enterprise-grade mobile applications',
     'exploring': 'Blockchain & Web3 integration',
   };
 }
@@ -46,7 +47,8 @@ class UsamaSultan extends FlutterDeveloper {
 - 🚀 Delivered **multiple production apps** with 10K+ downloads
 - 🎨 Expert in creating **pixel-perfect UI/UX** implementations
 - ⚡ Optimized app performance resulting in **30% faster load times**
-- 🔄 Experienced in **CI/CD** pipelines and deployment automation
+- 🔄 Proficient in **CI/CD pipelines** and automated deployment workflows
+- 🖥️ Skilled in **Node.js backend** development and API design
 
 ## 📊 GitHub Stats
 
