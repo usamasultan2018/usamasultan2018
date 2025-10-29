@@ -59,20 +59,6 @@ class UsamaSultan extends FlutterDeveloper {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=usamasultan2018&hide_border=true" alt="GitHub Streak" />
 </p>
 
-## 🌟 Featured Projects
-
-### 📦 [Project Name 1](link-to-repo)
-> Brief description of what this app does and technologies used
-- **Tech:** Flutter, Bloc, Firebase
-- **Impact:** Key achievement or metric
-
-### 🎯 [Project Name 2](link-to-repo)
-> Brief description of what this app does and technologies used
-- **Tech:** Flutter, REST API, SQLite
-- **Impact:** Key achievement or metric
-
-*💡 Check out more projects in my [repositories](https://github.com/usamasultan2018?tab=repositories)*
-
 ## 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/usama-sultan-b67972105/)
