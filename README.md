@@ -26,7 +26,7 @@ Software Engineer at **Metasense** with a passion for crafting exceptional mobil
 class UsamaSultan extends FlutterDeveloper {
   final List<String> expertise = [
     'Cross-platform Mobile Development',
-    'State Management (Bloc, Provider, Riverpod)',
+    'State Management (Bloc, Provider,Getx)',
     'RESTful API Integration & Node.js Backend',
     'Firebase & Cloud Services',
     'Clean Architecture & SOLID Principles',
@@ -44,7 +44,6 @@ class UsamaSultan extends FlutterDeveloper {
 ## 🏆 Highlights
 
 - 📱 **2+ Years** of professional Flutter development
-- 🚀 Delivered **multiple production apps** with 10K+ downloads
 - 🎨 Expert in creating **pixel-perfect UI/UX** implementations
 - ⚡ Optimized app performance resulting in **30% faster load times**
 - 🔄 Proficient in **CI/CD pipelines** and automated deployment workflows
